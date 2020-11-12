@@ -4,3 +4,7 @@ Hi, I'm Imani! I am currently a senior at Columbai University studying Computer 
 
 ### Projects
 [Kaleidosound](https://github.com/imanigosserand/Kaleidosound)
+
+### Links
+[LinkedIn](https://www.linkedin.com/in/imani-gosserand/)
+[GitHub](https://github.com/imanigosserand)
